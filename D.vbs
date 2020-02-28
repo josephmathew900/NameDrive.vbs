@@ -20,5 +20,3 @@ Set objShell = CreateObject("Shell.Application")
 objShell.NameSpace(strDriveLetter).Self.Name = strNewName
 
 WScript.Quit
-
-' End of Example VBScript.
