@@ -1,6 +1,7 @@
 ' NameDrive.vbs
 ' VBScript to map a network drive.
 ' Author Joseph Mathew
+' Drive D mapped to C\Projects 
 ' ----------------------------------------'
 '
 Option Explicit
